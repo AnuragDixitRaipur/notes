@@ -32,3 +32,13 @@ Useful for quick reference and practice while improving skills.
    git clone https://github.com/AnuragDixitRaipur/notes.git
    cd notes
 
+
+
+   ## Insurance Script
+This script helps calculate commission on premium amounts.
+
+### How to Run
+```bash
+python insurance.py
+
+
