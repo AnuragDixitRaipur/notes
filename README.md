@@ -42,3 +42,26 @@ This script helps calculate commission on premium amounts.
 python insurance.py
 
 
+
+## Insurance Basics
+- Added a script (`insurance_basics.py`) showing:
+  - Types of insurance
+  - Sample commission calculation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
