@@ -49,6 +49,13 @@ python insurance.py
   - Sample commission calculation
 
 
+## Trading Notes
+- Added `trading_notes.py` with:
+  - List of core trading principles
+  - Simple risk-reward ratio example
+
+
+
 
 
 
