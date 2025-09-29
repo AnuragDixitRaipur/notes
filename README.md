@@ -55,6 +55,17 @@ python insurance.py
   - Simple risk-reward ratio example
 
 
+## Policy Calculator
+- Added `policy_calculator.py` with:
+  - Premium calculation (with yearly growth)
+  - Commission calculation
+
+
+
+
+
+
+
 
 
 
